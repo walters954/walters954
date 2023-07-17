@@ -21,27 +21,9 @@
 🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
 # Salesforce Technologies
-<!-- <div style="text-align:center; display:inline-block; margin:10px;">
-    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" height="100" alt="Apex"/>
-    <p style="font-size:18px; font-weight:bold;">Apex</p>
-</div>
-<div style="text-align:center; display:inline-block; margin:10px;">
-    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" height="100" alt="Integrations"/>
-    <p style="font-size:18px; font-weight:bold;">Integration</p>
-</div>
-<div style="text-align:center; display:inline-block; margin:10px;">
-    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" height="100" alt="LWC"/>
-    <p style="font-size:18px; font-weight:bold;">LWC</p>
-</div>
-
-<div style="text-align:center; display:inline-block; margin:10px;">
-    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" height="100" alt="SFDX"/>
-    <p style="font-size:18px; font-weight:bold;">SFDX</p>
-</div> -->
-
-| ![Apex](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png) | ![Integration](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png) | ![LWC](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png) | ![SFDX](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png) |
+| ![Apex](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png) | ![Integrations](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png) | ![LWC](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png) | ![SFDX](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png) |
 |:---:|:---:|:---:|:---:|
-| **Apex** | **Integration** | **LWC** | **SFDX** |
+| **Apex** | **Integrations** | **Lightning Web Components** | **SFDX** |
 
 
 
