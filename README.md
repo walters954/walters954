@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Warren Walters</h1>
-<h3 align="center">Helping new coding become Salesforce Developer</h3>
+<h3 align="center">Helping new coders become Salesforce Developers</h3>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walters954) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheWalters954) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCcEeoW47AVACpRXl_tPBupg) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@walters954) 
 
 </div>
 
