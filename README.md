@@ -5,7 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walters954) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheWalters954) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@walters954) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@walters954)
+[![Linketree](https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white)](https://linktr.ee/walters954)  
 
 </div>
 
@@ -19,13 +20,32 @@
 
 🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
+# Salesforce Technologies
+<div style="text-align:center; display:inline-block; margin:10px;">
+    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" height="100" alt="Apex"/>
+    <p style="font-size:18px; font-weight:bold;">Apex</p>
+</div>
+<div style="text-align:center; display:inline-block; margin:10px;">
+    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" height="100" alt="Integration"/>
+    <p style="font-size:18px; font-weight:bold;">Integration</p>
+</div>
+<div style="text-align:center; display:inline-block; margin:10px;">
+    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" height="100" alt="LWC"/>
+    <p style="font-size:18px; font-weight:bold;">LWC</p>
+</div>
+
+<div style="text-align:center; display:inline-block; margin:10px;">
+    <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" height="100" alt="SFDX"/>
+    <p style="font-size:18px; font-weight:bold;">SFDX</p>
+</div>
+
 # ☁ Salesforce Credentials
 
 <div align="left">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" height="100" alt="salesforce logo"/>  
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="100" alt="salesforce logo"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="100" alt="salesforce logo"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" height="100" alt="Application Architect"/>  
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="100" alt="JavaScript Developer 1"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="100" alt="Platform Developer 2"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="Platform Developer 1"/>
 </div>
 
 # 💻 Tech Stack:
@@ -42,7 +62,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[![Linketree](https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge)](https://linktr.ee/walters954) 
+
 
 # Salesforce Community
 <div align="left">
