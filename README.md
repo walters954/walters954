@@ -26,7 +26,7 @@
 | **Apex** | **Integrations** | **Lightning Web Components** | **SFDX** |
 
 <table>
-  <tr>
+  <tr style="border:0px;" width="100%">
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" alt="Apex" style="width: 100px;"/><br><b>Apex</b></td>
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integration" style="width: 100px;"/><br><b>Integration</b></td>
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" alt="LWC" style="width: 100px;"/><br><b>LWC</b></td>
