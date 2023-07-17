@@ -19,11 +19,13 @@
 
 - 🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
-# ☁ Salesforce Technologies
+# ☁ Salesforce Credentials
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="30" alt="salesforce logo"  />
-  <img width="12" />
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" height="50" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="50" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="50" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="50" alt="salesforce logo"/>
 </div>
 
 # 💻 Tech Stack:
