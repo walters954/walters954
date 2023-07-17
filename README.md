@@ -20,7 +20,7 @@
 
 🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
-# Salesforce Technologies
+# ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
   <tr style="border:0px;" >
     <td align="center" style="border:0px;">
