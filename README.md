@@ -9,23 +9,23 @@
 
 </div>
 
-- 🔭 I’m currently working on [Cloud Code Academy](https://cloudcodeacademy.com)
+🔭 I’m currently working on [Cloud Code Academy](https://cloudcodeacademy.com)
 
-- 📝 I regularly write articles on [salesforcementor.com](https://salesforcementor.com)
+📝 I regularly write articles on [salesforcementor.com](https://salesforcementor.com)
 
-- 💬 Ask me about **Salesforce Development**
+💬 Ask me about **Salesforce Development**
 
-- 📫 How to reach me **walters954@salesforcementor.com**
+📫 How to reach me **walters954@salesforcementor.com**
 
-- 🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
+🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
 # ☁ Salesforce Credentials
 
 <div align="left">
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" height="50" alt="salesforce logo"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="50" alt="salesforce logo"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="50" alt="salesforce logo"/>
-  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="50" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mty&oid=00DF0000000gZsu&lastMod=1617268288000" height="100" alt="salesforce logo"/>  
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5MtX&oid=00DF0000000gZsu&lastMod=1617267315000" height="100" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mth&oid=00DF0000000gZsu&lastMod=1617268556000" height="100" alt="salesforce logo"/>
+  <img src="https://drm.file.force.com/servlet/servlet.ImageServer?id=0153k00000A5Mtz&oid=00DF0000000gZsu&lastMod=1617268528000" height="100" alt="salesforce logo"/>
 </div>
 
 # 💻 Tech Stack:
