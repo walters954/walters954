@@ -28,16 +28,13 @@
         <br>
         <b>Apex</b>
     </td>
-    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integration" style="width: 100px;"/><br><b>Integration</b></td>
+    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integrations" style="width: 100px;"/><br><b>Integrations</b></td>
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" alt="LWC" style="width: 100px;"/><br><b>LWC</b></td>
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" alt="SFDX" style="width: 100px;"/><br><b>SFDX</b></td>
     <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/soql-for-admins/04607670444dbbe5aac7e77bc03c4fd1_badge.png" alt="SOQL" style="width: 100px;"/><br><b>SOQL</b></td>
     <td align="center" style="border:0px;"><img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" style="width: 100px;"/><br><b>Testing</b></td>
   </tr>
 </table>
-
-
-
 
 # ☁ Salesforce Credentials
 
