@@ -18,7 +18,7 @@
 
 📫 How to reach me **walters954@salesforcementor.com**
 
-🏅 [17x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
+🏅 [18x Certified Salesforce MVP](https://trailblazer.me/id/walters954)
 
 # ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
